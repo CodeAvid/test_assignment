@@ -28,7 +28,6 @@ class _CharacterDetailScreenState extends State<CharacterDetailScreen> {
     super.initState();
     _bgColors = [];
     _updatePalette();
-    // removeBackground();
   }
 
   _updatePalette() async {
